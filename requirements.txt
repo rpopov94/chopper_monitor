@@ -1,0 +1,13 @@
+decorator==4.4.2
+distlib==0.3.1
+pyinstaller==4.3
+pyinstaller-hooks-contrib==2021.1
+pyparsing==2.4.7
+PyQt5==5.15.2
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.8.1
+pyserial==3.5
+pywin32-ctypes==0.2.0
+qt5-applications==5.15.2.2.1
+qt5-tools==5.15.2.1.0.1
+virtualenv==20.4.3
